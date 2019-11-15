@@ -1,2 +1,2 @@
 # CTF-Resource
-Leave it here
+https://trailofbits.github.io/ctf/intro/
