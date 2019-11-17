@@ -1,6 +1,6 @@
 
-Resources | Link
-*******|********
+Resources| Link
+-------- | -----------
 Getting Start | ttps://trailofbits.github.io/ctf/intro/
 ASSEMBLY WITH UBUNTU | http://www.egr.unlv.edu/~ed/assembly64.pdf
 ASSEMBLY GUIDE | http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
