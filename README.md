@@ -8,4 +8,6 @@ Getting Started with Reverse Engineering | https://lospi.net/developing/software
 Introduction to Computer OrganizationARM Assembly Language Using the Raspberry Pi | http://bob.cs.sonoma.edu/IntroCompOrg-RPi/sec-subsystems.html
 IDA GUIDE |http://www-verimag.imag.fr/~mounier/Enseignement/Software_Security/BH_Eagle_ida_pro.pdf
 USEFUL TRAINING | http://opensecuritytraining.info/Training.html
-MIT FREE COURSES | https://ocw.mit.edu/courses/find-by-number/
+Programming-C | https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/
+Operation System | https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/lecture-notes-and-readings/
+Database | https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/lecture-notes/
