@@ -12,3 +12,4 @@ Programming-C | https://ocw.mit.edu/courses/electrical-engineering-and-computer-
 Operation System | https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/lecture-notes-and-readings/
 Database | https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/lecture-notes/
 GIT-CHEAT-SHEET|http://www.ndpsoftware.com/git-cheatsheet.html#loc=stash;
+GDB Command | https://web.cecs.pdx.edu/~apt/cs322/gdb.pdf
