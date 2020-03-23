@@ -13,3 +13,4 @@ Operation System | https://ocw.mit.edu/courses/electrical-engineering-and-comput
 Database | https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/lecture-notes/
 GIT-CHEAT-SHEET|http://www.ndpsoftware.com/git-cheatsheet.html#loc=stash;
 GDB Command | https://web.cecs.pdx.edu/~apt/cs322/gdb.pdf
+**ASCII Chart | https://bluesock.org/~willg/dev/ascii.html 
